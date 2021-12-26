@@ -1,356 +1,356 @@
-	id	category	sentiment
-0	13823	Whole	both
-1	13823	Interior	absence
-2	13823	Service	both
-3	13823	Food	positive
-4	13823	Price	both
-5	1427	Whole	both
-6	1427	Interior	both
-7	1427	Service	both
-8	1427	Food	both
-9	1427	Price	absence
-10	16714	Whole	absence
-11	16714	Interior	positive
-12	16714	Service	both
-13	16714	Food	both
-14	16714	Price	absence
-15	797	Whole	neutral
-16	797	Interior	absence
-17	797	Service	neutral
-18	797	Food	neutral
-19	797	Price	absence
-20	34710	Whole	absence
-21	34710	Interior	absence
-22	34710	Service	both
-23	34710	Food	both
-24	34710	Price	neutral
-25	33798	Whole	both
-26	33798	Interior	positive
-27	33798	Service	positive
-28	33798	Food	both
-29	33798	Price	absence
-30	2073	Whole	both
-31	2073	Interior	positive
-32	2073	Service	both
-33	2073	Food	both
-34	2073	Price	absence
-35	785	Whole	positive
-36	785	Interior	positive
-37	785	Service	both
-38	785	Food	both
-39	785	Price	absence
-40	1434	Whole	both
-41	1434	Interior	positive
-42	1434	Service	positive
-43	1434	Food	both
-44	1434	Price	absence
-45	22386	Whole	absence
-46	22386	Interior	absence
-47	22386	Service	both
-48	22386	Food	both
-49	22386	Price	neutral
-50	32442	Whole	positive
-51	32442	Interior	positive
-52	32442	Service	both
-53	32442	Food	both
-54	32442	Price	absence
-55	15423	Whole	neutral
-56	15423	Interior	positive
-57	15423	Service	positive
-58	15423	Food	neutral
-59	15423	Price	absence
-60	7193	Whole	positive
-61	7193	Interior	absence
-62	7193	Service	both
-63	7193	Food	both
-64	7193	Price	absence
-65	13100	Whole	absence
-66	13100	Interior	positive
-67	13100	Service	both
-68	13100	Food	both
-69	13100	Price	absence
-70	35635	Whole	both
-71	35635	Interior	neutral
-72	35635	Service	neutral
-73	35635	Food	positive
-74	35635	Price	absence
-75	2107	Whole	neutral
-76	2107	Interior	positive
-77	2107	Service	neutral
-78	2107	Food	both
-79	2107	Price	absence
-80	36085	Whole	positive
-81	36085	Interior	neutral
-82	36085	Service	positive
-83	36085	Food	positive
-84	36085	Price	absence
-85	7824	Whole	both
-86	7824	Interior	neutral
-87	7824	Service	neutral
-88	7824	Food	both
-89	7824	Price	neutral
-90	34045	Whole	both
-91	34045	Interior	positive
-92	34045	Service	positive
-93	34045	Food	both
-94	34045	Price	absence
-95	11421	Whole	both
-96	11421	Interior	positive
-97	11421	Service	both
-98	11421	Food	both
-99	11421	Price	absence
-100	36126	Whole	both
-101	36126	Interior	neutral
-102	36126	Service	both
-103	36126	Food	neutral
-104	36126	Price	absence
-105	13186	Whole	neutral
-106	13186	Interior	negative
-107	13186	Service	both
-108	13186	Food	neutral
-109	13186	Price	absence
-110	9721	Whole	both
-111	9721	Interior	positive
-112	9721	Service	positive
-113	9721	Food	both
-114	9721	Price	positive
-115	28083	Whole	neutral
-116	28083	Interior	absence
-117	28083	Service	both
-118	28083	Food	both
-119	28083	Price	absence
-120	30744	Whole	absence
-121	30744	Interior	both
-122	30744	Service	neutral
-123	30744	Food	both
-124	30744	Price	absence
-125	3976	Whole	both
-126	3976	Interior	both
-127	3976	Service	both
-128	3976	Food	both
-129	3976	Price	absence
-130	27040	Whole	absence
-131	27040	Interior	absence
-132	27040	Service	neutral
-133	27040	Food	both
-134	27040	Price	absence
-135	33591	Whole	positive
-136	33591	Interior	both
-137	33591	Service	positive
-138	33591	Food	both
-139	33591	Price	neutral
-140	28258	Whole	neutral
-141	28258	Interior	positive
-142	28258	Service	both
-143	28258	Food	both
-144	28258	Price	negative
-145	19503	Whole	both
-146	19503	Interior	absence
-147	19503	Service	both
-148	19503	Food	neutral
-149	19503	Price	absence
-150	37391	Whole	both
-151	37391	Interior	positive
-152	37391	Service	both
-153	37391	Food	positive
-154	37391	Price	positive
-155	14568	Whole	both
-156	14568	Interior	positive
-157	14568	Service	negative
-158	14568	Food	both
-159	14568	Price	positive
-160	2495	Whole	both
-161	2495	Interior	positive
-162	2495	Service	positive
-163	2495	Food	both
-164	2495	Price	absence
-165	34402	Whole	positive
-166	34402	Interior	positive
-167	34402	Service	positive
-168	34402	Food	both
-169	34402	Price	neutral
-170	33524	Whole	both
-171	33524	Interior	positive
-172	33524	Service	both
-173	33524	Food	both
-174	33524	Price	absence
-175	27375	Whole	both
-176	27375	Interior	neutral
-177	27375	Service	both
-178	27375	Food	neutral
-179	27375	Price	absence
-180	31071	Whole	neutral
-181	31071	Interior	both
-182	31071	Service	both
-183	31071	Food	both
-184	31071	Price	both
-185	25960	Whole	both
-186	25960	Interior	absence
-187	25960	Service	both
-188	25960	Food	both
-189	25960	Price	neutral
-190	9837	Whole	positive
-191	9837	Interior	both
-192	9837	Service	both
-193	9837	Food	both
-194	9837	Price	absence
-195	27841	Whole	positive
-196	27841	Interior	positive
-197	27841	Service	both
-198	27841	Food	both
-199	27841	Price	absence
-200	3231	Whole	positive
-201	3231	Interior	both
-202	3231	Service	both
-203	3231	Food	absence
-204	3231	Price	absence
-205	18780	Whole	both
-206	18780	Interior	positive
-207	18780	Service	positive
-208	18780	Food	both
-209	18780	Price	neutral
-210	10798	Whole	neutral
-211	10798	Interior	both
-212	10798	Service	both
-213	10798	Food	both
-214	10798	Price	neutral
-215	12131	Whole	both
-216	12131	Interior	both
-217	12131	Service	positive
-218	12131	Food	both
-219	12131	Price	absence
-220	26152	Whole	both
-221	26152	Interior	both
-222	26152	Service	both
-223	26152	Food	both
-224	26152	Price	neutral
-225	28112	Whole	both
-226	28112	Interior	both
-227	28112	Service	both
-228	28112	Food	both
-229	28112	Price	absence
-230	7011	Whole	neutral
-231	7011	Interior	both
-232	7011	Service	both
-233	7011	Food	both
-234	7011	Price	absence
-235	33043	Whole	both
-236	33043	Interior	positive
-237	33043	Service	both
-238	33043	Food	both
-239	33043	Price	absence
-240	20862	Whole	both
-241	20862	Interior	absence
-242	20862	Service	both
-243	20862	Food	neutral
-244	20862	Price	positive
-245	33252	Whole	positive
-246	33252	Interior	positive
-247	33252	Service	both
-248	33252	Food	both
-249	33252	Price	absence
-250	34956	Whole	both
-251	34956	Interior	positive
-252	34956	Service	neutral
-253	34956	Food	both
-254	34956	Price	absence
-255	9289	Whole	neutral
-256	9289	Interior	both
-257	9289	Service	both
-258	9289	Food	both
-259	9289	Price	neutral
-260	14539	Whole	negative
-261	14539	Interior	both
-262	14539	Service	both
-263	14539	Food	both
-264	14539	Price	neutral
-265	15567	Whole	positive
-266	15567	Interior	both
-267	15567	Service	both
-268	15567	Food	both
-269	15567	Price	absence
-270	36926	Whole	neutral
-271	36926	Interior	positive
-272	36926	Service	positive
-273	36926	Food	both
-274	36926	Price	both
-275	36512	Whole	both
-276	36512	Interior	both
-277	36512	Service	both
-278	36512	Food	both
-279	36512	Price	absence
-280	11532	Whole	both
-281	11532	Interior	both
-282	11532	Service	both
-283	11532	Food	both
-284	11532	Price	neutral
-285	5155	Whole	both
-286	5155	Interior	positive
-287	5155	Service	neutral
-288	5155	Food	both
-289	5155	Price	absence
-290	31004	Whole	absence
-291	31004	Interior	positive
-292	31004	Service	both
-293	31004	Food	both
-294	31004	Price	negative
-295	2606	Whole	both
-296	2606	Interior	positive
-297	2606	Service	both
-298	2606	Food	both
-299	2606	Price	absence
-300	3552	Whole	absence
-301	3552	Interior	positive
-302	3552	Service	both
-303	3552	Food	positive
-304	3552	Price	absence
-305	29395	Whole	both
-306	29395	Interior	positive
-307	29395	Service	neutral
-308	29395	Food	both
-309	29395	Price	absence
-310	7154	Whole	both
-311	7154	Interior	absence
-312	7154	Service	neutral
-313	7154	Food	both
-314	7154	Price	absence
-315	35325	Whole	positive
-316	35325	Interior	both
-317	35325	Service	both
-318	35325	Food	both
-319	35325	Price	positive
-320	5974	Whole	positive
-321	5974	Interior	positive
-322	5974	Service	both
-323	5974	Food	positive
-324	5974	Price	neutral
-325	19817	Whole	both
-326	19817	Interior	positive
-327	19817	Service	both
-328	19817	Food	both
-329	19817	Price	both
-330	9216	Whole	neutral
-331	9216	Interior	both
-332	9216	Service	both
-333	9216	Food	both
-334	9216	Price	absence
-335	8996	Whole	both
-336	8996	Interior	both
-337	8996	Service	both
-338	8996	Food	positive
-339	8996	Price	positive
-340	38299	Whole	both
-341	38299	Interior	both
-342	38299	Service	both
-343	38299	Food	both
-344	38299	Price	absence
-345	37819	Whole	both
-346	37819	Interior	positive
-347	37819	Service	both
-348	37819	Food	neutral
-349	37819	Price	absence
-350	11770	Whole	both
-351	11770	Interior	absence
-352	11770	Service	positive
-353	11770	Food	both
-354	11770	Price	absence
+id	category	sentiment
+13823	Whole	both
+13823	Interior	absence
+13823	Service	both
+13823	Food	positive
+13823	Price	both
+1427	Whole	both
+1427	Interior	both
+1427	Service	both
+1427	Food	both
+1427	Price	absence
+16714	Whole	absence
+16714	Interior	positive
+16714	Service	both
+16714	Food	both
+16714	Price	absence
+797	Whole	neutral
+797	Interior	absence
+797	Service	neutral
+797	Food	neutral
+797	Price	absence
+34710	Whole	absence
+34710	Interior	absence
+34710	Service	both
+34710	Food	both
+34710	Price	neutral
+33798	Whole	both
+33798	Interior	positive
+33798	Service	positive
+33798	Food	both
+33798	Price	absence
+2073	Whole	both
+2073	Interior	positive
+2073	Service	both
+2073	Food	both
+2073	Price	absence
+785	Whole	positive
+785	Interior	positive
+785	Service	both
+785	Food	both
+785	Price	absence
+1434	Whole	both
+1434	Interior	positive
+1434	Service	positive
+1434	Food	both
+1434	Price	absence
+22386	Whole	absence
+22386	Interior	absence
+22386	Service	both
+22386	Food	both
+22386	Price	neutral
+32442	Whole	positive
+32442	Interior	positive
+32442	Service	both
+32442	Food	both
+32442	Price	absence
+15423	Whole	neutral
+15423	Interior	positive
+15423	Service	positive
+15423	Food	neutral
+15423	Price	absence
+7193	Whole	positive
+7193	Interior	absence
+7193	Service	both
+7193	Food	both
+7193	Price	absence
+13100	Whole	absence
+13100	Interior	positive
+13100	Service	both
+13100	Food	both
+13100	Price	absence
+35635	Whole	both
+35635	Interior	neutral
+35635	Service	neutral
+35635	Food	positive
+35635	Price	absence
+2107	Whole	neutral
+2107	Interior	positive
+2107	Service	neutral
+2107	Food	both
+2107	Price	absence
+36085	Whole	positive
+36085	Interior	neutral
+36085	Service	positive
+36085	Food	positive
+36085	Price	absence
+7824	Whole	both
+7824	Interior	neutral
+7824	Service	neutral
+7824	Food	both
+7824	Price	neutral
+34045	Whole	both
+34045	Interior	positive
+34045	Service	positive
+34045	Food	both
+34045	Price	absence
+11421	Whole	both
+11421	Interior	positive
+11421	Service	both
+11421	Food	both
+11421	Price	absence
+36126	Whole	both
+36126	Interior	neutral
+36126	Service	both
+36126	Food	neutral
+36126	Price	absence
+13186	Whole	neutral
+13186	Interior	negative
+13186	Service	both
+13186	Food	neutral
+13186	Price	absence
+9721	Whole	both
+9721	Interior	positive
+9721	Service	positive
+9721	Food	both
+9721	Price	positive
+28083	Whole	neutral
+28083	Interior	absence
+28083	Service	both
+28083	Food	both
+28083	Price	absence
+30744	Whole	absence
+30744	Interior	both
+30744	Service	neutral
+30744	Food	both
+30744	Price	absence
+3976	Whole	both
+3976	Interior	both
+3976	Service	both
+3976	Food	both
+3976	Price	absence
+27040	Whole	absence
+27040	Interior	absence
+27040	Service	neutral
+27040	Food	both
+27040	Price	absence
+33591	Whole	positive
+33591	Interior	both
+33591	Service	positive
+33591	Food	both
+33591	Price	neutral
+28258	Whole	neutral
+28258	Interior	positive
+28258	Service	both
+28258	Food	both
+28258	Price	negative
+19503	Whole	both
+19503	Interior	absence
+19503	Service	both
+19503	Food	neutral
+19503	Price	absence
+37391	Whole	both
+37391	Interior	positive
+37391	Service	both
+37391	Food	positive
+37391	Price	positive
+14568	Whole	both
+14568	Interior	positive
+14568	Service	negative
+14568	Food	both
+14568	Price	positive
+2495	Whole	both
+2495	Interior	positive
+2495	Service	positive
+2495	Food	both
+2495	Price	absence
+34402	Whole	positive
+34402	Interior	positive
+34402	Service	positive
+34402	Food	both
+34402	Price	neutral
+33524	Whole	both
+33524	Interior	positive
+33524	Service	both
+33524	Food	both
+33524	Price	absence
+27375	Whole	both
+27375	Interior	neutral
+27375	Service	both
+27375	Food	neutral
+27375	Price	absence
+31071	Whole	neutral
+31071	Interior	both
+31071	Service	both
+31071	Food	both
+31071	Price	both
+25960	Whole	both
+25960	Interior	absence
+25960	Service	both
+25960	Food	both
+25960	Price	neutral
+9837	Whole	positive
+9837	Interior	both
+9837	Service	both
+9837	Food	both
+9837	Price	absence
+27841	Whole	positive
+27841	Interior	positive
+27841	Service	both
+27841	Food	both
+27841	Price	absence
+3231	Whole	positive
+3231	Interior	both
+3231	Service	both
+3231	Food	absence
+3231	Price	absence
+18780	Whole	both
+18780	Interior	positive
+18780	Service	positive
+18780	Food	both
+18780	Price	neutral
+10798	Whole	neutral
+10798	Interior	both
+10798	Service	both
+10798	Food	both
+10798	Price	neutral
+12131	Whole	both
+12131	Interior	both
+12131	Service	positive
+12131	Food	both
+12131	Price	absence
+26152	Whole	both
+26152	Interior	both
+26152	Service	both
+26152	Food	both
+26152	Price	neutral
+28112	Whole	both
+28112	Interior	both
+28112	Service	both
+28112	Food	both
+28112	Price	absence
+7011	Whole	neutral
+7011	Interior	both
+7011	Service	both
+7011	Food	both
+7011	Price	absence
+33043	Whole	both
+33043	Interior	positive
+33043	Service	both
+33043	Food	both
+33043	Price	absence
+20862	Whole	both
+20862	Interior	absence
+20862	Service	both
+20862	Food	neutral
+20862	Price	positive
+33252	Whole	positive
+33252	Interior	positive
+33252	Service	both
+33252	Food	both
+33252	Price	absence
+34956	Whole	both
+34956	Interior	positive
+34956	Service	neutral
+34956	Food	both
+34956	Price	absence
+9289	Whole	neutral
+9289	Interior	both
+9289	Service	both
+9289	Food	both
+9289	Price	neutral
+14539	Whole	negative
+14539	Interior	both
+14539	Service	both
+14539	Food	both
+14539	Price	neutral
+15567	Whole	positive
+15567	Interior	both
+15567	Service	both
+15567	Food	both
+15567	Price	absence
+36926	Whole	neutral
+36926	Interior	positive
+36926	Service	positive
+36926	Food	both
+36926	Price	both
+36512	Whole	both
+36512	Interior	both
+36512	Service	both
+36512	Food	both
+36512	Price	absence
+11532	Whole	both
+11532	Interior	both
+11532	Service	both
+11532	Food	both
+11532	Price	neutral
+5155	Whole	both
+5155	Interior	positive
+5155	Service	neutral
+5155	Food	both
+5155	Price	absence
+31004	Whole	absence
+31004	Interior	positive
+31004	Service	both
+31004	Food	both
+31004	Price	negative
+2606	Whole	both
+2606	Interior	positive
+2606	Service	both
+2606	Food	both
+2606	Price	absence
+3552	Whole	absence
+3552	Interior	positive
+3552	Service	both
+3552	Food	positive
+3552	Price	absence
+29395	Whole	both
+29395	Interior	positive
+29395	Service	neutral
+29395	Food	both
+29395	Price	absence
+7154	Whole	both
+7154	Interior	absence
+7154	Service	neutral
+7154	Food	both
+7154	Price	absence
+35325	Whole	positive
+35325	Interior	both
+35325	Service	both
+35325	Food	both
+35325	Price	positive
+5974	Whole	positive
+5974	Interior	positive
+5974	Service	both
+5974	Food	positive
+5974	Price	neutral
+19817	Whole	both
+19817	Interior	positive
+19817	Service	both
+19817	Food	both
+19817	Price	both
+9216	Whole	neutral
+9216	Interior	both
+9216	Service	both
+9216	Food	both
+9216	Price	absence
+8996	Whole	both
+8996	Interior	both
+8996	Service	both
+8996	Food	positive
+8996	Price	positive
+38299	Whole	both
+38299	Interior	both
+38299	Service	both
+38299	Food	both
+38299	Price	absence
+37819	Whole	both
+37819	Interior	positive
+37819	Service	both
+37819	Food	neutral
+37819	Price	absence
+11770	Whole	both
+11770	Interior	absence
+11770	Service	positive
+11770	Food	both
+11770	Price	absence
