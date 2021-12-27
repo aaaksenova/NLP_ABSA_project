@@ -79,7 +79,7 @@
 
 #### Метод
 
-За основу мы взяли (Entity-based sentiment analysis using BERT)[https://github.com/deep-nlp-spring-2020/dialog-sent/blob/master/notebooks/9-bert-masked.ipynb]. Метод заключается в маскировании токена-упоминания аспекта и предсказывании его сентимента по `[CLS]` токену предложения с маской. 
+За основу мы взяли [Entity-based sentiment analysis using BERT](https://github.com/deep-nlp-spring-2020/dialog-sent/blob/master/notebooks/9-bert-masked.ipynb). Метод заключается в маскировании токена-упоминания аспекта и предсказывании его сентимента по `[CLS]` токену предложения с маской. 
 
 **Анализ ошибок**
 TBD
